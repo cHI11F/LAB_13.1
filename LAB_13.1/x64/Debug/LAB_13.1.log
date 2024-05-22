@@ -1,0 +1,17 @@
+﻿  dod.cpp
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\dod.cpp(6,9): error C2065: 'a': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\dod.cpp(6,15): error C2065: 'x': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\dod.cpp(6,19): error C2065: 'n': undeclared identifier
+  sum.cpp
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(8,9): error C2065: 'n': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(9,9): error C2065: 'a': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(10,9): error C2065: 's': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(10,13): error C2065: 'a': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(12,13): error C2065: 'n': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(13,13): error C3861: 'dod': identifier not found
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(14,13): error C2065: 's': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(14,18): error C2065: 'a': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(15,23): error C2065: 'a': undeclared identifier
+D:\Visual Studio проекти\LAB_13.1\LAB_13.1\sum.cpp(15,28): error C2065: 'e': undeclared identifier
+  var.cpp
+  Generating Code...
